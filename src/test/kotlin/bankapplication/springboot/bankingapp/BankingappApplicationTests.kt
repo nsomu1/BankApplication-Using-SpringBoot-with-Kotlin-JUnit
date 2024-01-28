@@ -1,0 +1,13 @@
+package bankapplication.springboot.bankingapp
+
+import org.junit.jupiter.api.Test
+import org.springframework.boot.test.context.SpringBootTest
+
+@SpringBootTest
+class BankingappApplicationTests {
+
+	@Test
+	fun contextLoads() {
+	}
+
+}
